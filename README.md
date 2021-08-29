@@ -43,7 +43,7 @@ TJLS stands for **T**ong**j**i **L**ife **S**ciences.
 * ~~170305_现代生态学~~
 * ~~170255_生理学~~
 * [170010_生物化学](https://github.com/jwyjohn/TJLS-Course/tree/main/170010_%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6)
-* ~~170015_细胞生物学~~
+* [170015_细胞生物学](https://github.com/jwyjohn/TJLS-Course/tree/main/170015_%E7%BB%86%E8%83%9E%E7%94%9F%E7%89%A9%E5%AD%A6)
 * ~~170269_分子生物学与基因工程~~
 * [170148_微生物学](https://github.com/jwyjohn/TJLS-Course/tree/main/170148_%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A6)
 * [122015_生物信息学数值方法](https://github.com/jwyjohn/TJLS-Course/tree/main/122015_%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6%E6%95%B0%E5%80%BC%E6%96%B9%E6%B3%95)
