@@ -1,6 +1,7 @@
 # :tada: TJLS-Course
 ![GitHub repo size](https://img.shields.io/github/repo-size/jwyjohn/TJLS-Course)  ![GitHub stars](https://img.shields.io/github/stars/jwyjohn/TJLS-Course?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/jwyjohn/TJLS-Course?color=green&label=Fork) [![Generate-Power-With-Love](https://img.shields.io/badge/Generate--Power--With-Love-red)](https://github.com/jwyjohn/TJLS-Course)
 
+TJLS stands for **T**ong**j**i **L**ife **S**ciences.
 
 ### Thanks to the inspiration from [TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course/)
 
