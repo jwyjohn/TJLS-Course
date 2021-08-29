@@ -20,8 +20,8 @@ TJLS stands for **T**ong**j**i **L**ife **S**ciences.
 树立远大理想和脚踏实地、艰苦奋斗相统一，
 在实现中华民族伟大复兴中谱写壮丽的青春之歌。
 
-“天下兼相爱则治，交相恶则乱。”
-完善全球互联网治理体系，维护网络空间秩序，
+“二十一世纪是生命科学的世纪。”
+提高生命科学的整体水平，培养一流的科研人才，
 必须坚持同舟共济、互信互利的理念，
 摈弃零和博弈、赢者通吃的旧观念。
 ```
@@ -42,7 +42,7 @@ TJLS stands for **T**ong**j**i **L**ife **S**ciences.
 * [170263_普通生物学](https://github.com/jwyjohn/TJLS-Course/tree/main/170263_%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6)
 * ~~170305_现代生态学~~
 * ~~170255_生理学~~
-* ~~170010_生物化学~~
+* [170010_生物化学](https://github.com/jwyjohn/TJLS-Course/tree/main/170010_%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6)
 * ~~170015_细胞生物学~~
 * ~~170269_分子生物学与基因工程~~
 * [170148_微生物学](https://github.com/jwyjohn/TJLS-Course/tree/main/170148_%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A6)
