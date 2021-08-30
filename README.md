@@ -3,7 +3,7 @@
 
 TJLS stands for **T**ong**j**i **L**ife **S**ciences.
 
-### Thanks to the inspiration from [TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course/)
+### Thanks for the inspiration from [TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course/)
 
 *下面的内容绝大部分摘抄自[TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course/)。*
 
