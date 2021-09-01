@@ -47,7 +47,7 @@ TJLS stands for **T**ong**j**i **L**ife **S**ciences.
 * [170269_分子生物学与基因工程](https://github.com/jwyjohn/TJLS-Course/tree/main/170269_%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6%E4%B8%8E%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B)
 * [170148_微生物学](https://github.com/jwyjohn/TJLS-Course/tree/main/170148_%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A6)
 * [122015_生物信息学数值方法](https://github.com/jwyjohn/TJLS-Course/tree/main/122015_%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6%E6%95%B0%E5%80%BC%E6%96%B9%E6%B3%95)
-* ~~170034_生物信息学~~
+* [170034_生物信息学](https://github.com/jwyjohn/TJLS-Course/tree/main/170034_%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6)
 * ~~170058_生物信息学实验~~
 
 ## :church: 免责（保护
